@@ -52,7 +52,7 @@ function Card({
                         type="button"
                     ></button>
 
-                    <p className="elements__likes-quantity">{card.likes.length}</p>
+                    <p className="elements__likes-counter">{card.likes.length}</p>
                 </div>
             </div>
         </div>
